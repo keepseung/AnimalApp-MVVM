@@ -8,7 +8,7 @@ MVVM + Jetpack architecture를 사용한 동물 정보를 보여주는 앱입니
 ## Libraries
 
 ### Android Jetpack
-* [Lifecycle: 라이프사이클 이벤트에 자동으로 응답하는 UI 생성](https://developer.android.com/topic/libraries/architecture/lifecycle){:target="_blank"}
+* [Lifecycle: 라이프사이클 이벤트에 자동으로 응답하는 UI 생성](https://developer.android.com/topic/libraries/architecture/lifecycle)
 
 * [LiveData: 데이터가 변경될 때 View에 반영하기 위한 데이터 홀더 클래스](https://developer.android.com/topic/libraries/architecture/livedata)
 
