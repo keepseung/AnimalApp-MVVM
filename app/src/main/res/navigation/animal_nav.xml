@@ -8,7 +8,7 @@
     <fragment
         android:id="@+id/listFragment"
         android:name="com.keepseung.animalsapp.view.ListFragment"
-        android:label="fragment_list"
+        android:label="Animal list"
         tools:layout="@layout/fragment_list">
         <action
             android:id="@+id/actionDetail"
@@ -17,7 +17,7 @@
     <fragment
         android:id="@+id/detailFragment"
         android:name="com.keepseung.animalsapp.view.DetailFragment"
-        android:label="fragment_detail"
+        android:label="Animal detail"
         tools:layout="@layout/fragment_detail">
         <action
             android:id="@+id/actionList"
